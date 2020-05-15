@@ -1,0 +1,28 @@
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+input[type=submit] {
+    background-color: green;
+    color: black;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: coral;
+}
+
+h3 {
+    font-family: cursive;
+    color: coral;
+}
